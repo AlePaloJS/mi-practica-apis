@@ -1,0 +1,10 @@
+{
+  "nombre": "Alejandra",
+  "carrera": "Ing. en Redes Inteligentes y Ciberseguridad",
+  "cuatrimestre": 9,
+  "activo": true,
+  "materias": ["Optativa", "Computo en la nube", "Servidores"],
+  "contacto": {
+    "github": "AlePaloJS"
+  }
+}
